@@ -1,0 +1,6 @@
+{
+  "name": "Fuego & Cifras - Parrilla & Ahumados",
+  "description": "El auténtico sabor de la parrilla y ahumados a la leña. Cortes seleccionados, cocción lenta de 12 horas y delivery térmico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
